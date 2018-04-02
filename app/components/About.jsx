@@ -4,7 +4,7 @@ var About = (props)=>{
     return(
       <div>
         <h3>About</h3>
-        <p>Welcome yo our about page!</p>
+        <p>Welcome to our about page!</p>
       </div>
   )
 };
