@@ -4,7 +4,7 @@ var {Link} = require('react-router');
 var About = (props)=>{
     return(
       <div>
-        <h1 className="text-center">About</h1>
+        <h1 className="text-center page-title">About</h1>
         <p>This is a demo of an React App done by Jorge Barboza, you can find the code at <a href="https://github.com/jfbarboza/ReactWeather/" target="_blank">Github</a>. This is an academical demonstration on app done during a React Development course</p>
         <p>Technologies use to develop this demo:</p>
         <dl>
